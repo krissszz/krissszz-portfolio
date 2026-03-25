@@ -6,18 +6,15 @@ export const SITE_CONFIG: SiteConfig = {
   description:
     "Backend-focused Analyst/Programmer specializing in Python, Django, and MySQL. I build internal systems, automate workflows, and create reliable, data-driven solutions.",
   lang: "en",
-  siteLogo: "/krissszz.jpg",
+  siteLogo: "/krissszz.png",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/kristine-venesse-anunsawon-0379a3282/" },
+    { text: "Github", href: "https://github.com/krissszz" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -25,73 +22,75 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Kristine Venesse Anunsawon",
+    specialty: "Analyst / Programmer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "Backend-focused Analyst/Programmer specializing in Python, Django, and MySQL. I build internal systems, automate workflows, and create reliable, data-driven solutions.",
+    email: "anunsawonv@gmail.com",
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "First Farmers Holding Corporation",
+      position: "Analyst / Programmer",
+      startDate: "Oct 2024",
+      endDate: "Current",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "Developed and maintained internal web applications using Python, Django, MySQL, Informix, and PostgreSQL to support operational workflows.",
+        "Extracted, cleaned, and processed operational data using Informix queries and CSV files, supporting payroll processing, data uploads, and internal reporting.",
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
-      startDate: "Feb 2017",
-      endDate: "May 2018",
+      company: "EonBotz Technology",
+      position: "Programmer",
+      startDate: "Jan 2024",
+      endDate: "Oct 2024",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Designed and developed web applications for clients using Python and the Django framework.",
+        "Actively engaged with clients through travel, presentations, and user training.",
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
-      startDate: "Jun 2015",
-      endDate: "Oct 2016",
+      company: "Core Wireless (Beijing) Communication Tech. Co., Ltd.,",
+      position: "System Developer Intern",
+      startDate: "Sept 2022",
+      endDate: "Jan 2023",
       summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "Contributed to the design and development of a Laboratory Information Management System (LIMS), including system architecture design and core code development.",
+        "Utilized Python and MySQL to develop and optimize the system.",
     },
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "Sccale House System",
+      summary: "A system to record and manage truck weighing data for sugarcane deliveries, integrating with industrial scales to capture and store real-time weight measurements.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "",
       image: "/spotifu.png",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      name: "EMR System",
+      summary: "An internal web application that manages employee medical records to improve accessibility and organization of health data.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "",
       image: "/shopify-clon.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
+      name: "Payroll System",
+      summary: "A system for a company and a school, handling employee records, salary computation, and basic reports.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "",
       image: "/clone-ig.png",
     },
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+      Hi, I’m Kristine Venesse Anunsawon, I am a web programmer with a strong background in designing and developing user-friendly, responsive websites and applications for diverse clients and projects. Currently, I work as an Analyst/Programmer at FFHC.
 
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+      I completed my studies in Information Management and Information Systems at Beijing Institute of Technology, supported by Chinese Government Scholarship from 2018 to 2023. Additionally, I enhanced my communication and intercultural skills through a Chinese language and business preparatory course at Beijing Language and Culture University. 
+      
+      I am passionate about web/system development, information management, and business innovation, and I strive to create solutions that are efficient, effective, and engaging.
     `,
-    image: "/alejandro-big.jpg",
+    image: "/krissszz.png",
   },
 };
 
