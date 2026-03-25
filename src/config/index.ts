@@ -50,13 +50,13 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Core Wireless (Beijing) Communication Tech. Co., Ltd.,",
+      company: "Core Wireless (Beijing) Communication Tech. Co., Ltd.",
       position: "System Developer Intern",
       startDate: "Sept 2022",
       endDate: "Jan 2023",
-      summary:
+      summary: [
         "Contributed to the design and development of a Laboratory Information Management System (LIMS), including system architecture design and core code development.",
-        //"Utilized Python and MySQL to develop and optimize the system.",
+        "Utilized Python and MySQL to develop and optimize the system.",
     },
   ],
   projects: [
