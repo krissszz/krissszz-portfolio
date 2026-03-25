@@ -57,6 +57,7 @@ export const SITE_CONTENT: SiteContent = {
       summary: [
         "Contributed to the design and development of a Laboratory Information Management System (LIMS), including system architecture design and core code development.",
         "Utilized Python and MySQL to develop and optimize the system.",
+      ],
     },
   ],
   projects: [
