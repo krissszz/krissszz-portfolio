@@ -50,19 +50,19 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Core Wireless (Beijing) Communication Tech. Co., Ltd.",
-      position: "System Developer Intern",
-      startDate: "Sept 2022",
-      endDate: "Jan 2023",
+      company: "EonBotz Technology",
+      position: "Programmer",
+      startDate: "Jan 2024",
+      endDate: "Oct 2024",
       summary: [
-        "Contributed to the design and development of a Laboratory Information Management System (LIMS), including system architecture design and core code development.",
-        "Utilized Python and MySQL to develop and optimize the system.",
+        "Designed and developed web applications for clients using Python and the Django framework.",
+        "Actively engaged with clients through travel, presentations, and user training.",
       ],
     },
   ],
   projects: [
     {
-      name: "Sccale House System",
+      name: "Scale House System",
       summary: "A system to record and manage truck weighing data for sugarcane deliveries, integrating with industrial scales to capture and store real-time weight measurements.",
       linkPreview: "/",
       linkSource: "",
