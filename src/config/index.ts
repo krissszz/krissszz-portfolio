@@ -63,7 +63,7 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "Scale House System",
-      summary: "A system to record and manage truck sugarcane deliveries, integrating with industrial scales to capture and store real-time weight measurements.",
+      summary: "Engineered a weighing management system integrated with industrial scales to record and store real-time sugarcane delivery data.",
       image: "/scalehouse.png",
     },
     {
