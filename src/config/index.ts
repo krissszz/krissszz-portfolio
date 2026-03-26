@@ -79,9 +79,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Kristine Venesse Anunsawon, I am a web programmer with a strong background in designing and developing user-friendly, responsive websites and applications for diverse clients and projects. Currently, I work as an Analyst/Programmer at FFHC.
+      Hi, I’m Kristine Venesse Anunsawon, I am an analyst/programmer with a strong background in designing and developing user-friendly, responsive websites and applications for diverse clients and projects.
 
-      I completed my studies in Information Management and Information Systems at Beijing Institute of Technology, supported by Chinese Government Scholarship from 2018 to 2023. Additionally, I enhanced my communication and intercultural skills through a Chinese language and business preparatory course at Beijing Language and Culture University. 
+      I completed my studies in Information Management and Information Systems at Beijing Institute of Technology, supported by Chinese Government Scholarship from 2018 to 2023. 
       
       I am passionate about web/system development, information management, and business innovation, and I strive to create solutions that are efficient, effective, and engaging.
     `,
