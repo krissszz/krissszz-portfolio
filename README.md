@@ -2,6 +2,7 @@
 
 Welcome to my personal portfolio website!  
 This site showcases my projects, skills, and experience as an Analyst / Programmer.
+**Live Demo:** https://krissszz-portfolio.vercel.app
 
 ![Preview](./public/krisszzz-page.png)
 
