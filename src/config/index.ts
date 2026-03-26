@@ -76,6 +76,11 @@ export const SITE_CONTENT: SiteContent = {
       summary: "A system for a company and a school, handling employee records, salary computation, and basic reports.",
       image: "/payroll.png",
     },
+    {
+      name: "Household / Cencus Wep App",
+      summary: "Previously deployed web app for collecting and analyzing community demographic data (e.g., household size, civil status, religious affiliation) for church use.",
+      image: "/household.png",
+    },
   ],
   about: {
     description: `
