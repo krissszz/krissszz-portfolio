@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site showcases my projects, skills, and experience as an Analyst / Programmer.
 
-![Preview](./public/krissszz-page.png)
+![Preview](./public/krisszzz-page.png)
 
 ## 🚀 About the Project
 
