@@ -21,8 +21,6 @@ It includes:
 - **Deployment:** Vercel
 - **Other Tools:** [TypeScript]
 
-![performance](https://github.com/user-attachments/assets/4f95e2ca-03f9-4996-9e34-dcd179194c58)
-
 ## ⚙️ Getting Started
 
 If you want to run this project locally:
