@@ -63,7 +63,7 @@ export const SITE_CONTENT: SiteContent = {
   projects: [
     {
       name: "Scale House System",
-      summary: "A system to record and manage truck weighing data for sugarcane deliveries, integrating with industrial scales to capture and store real-time weight measurements.",
+      summary: "A system to record and manage truck sugarcane deliveries, integrating with industrial scales to capture and store real-time weight measurements.",
       image: "/scalehouse.png",
     },
     {
@@ -78,7 +78,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "Household / Cencus Wep App",
-      summary: "Previously deployed web app for collecting and analyzing community demographic data (e.g., household size, civil status, religious affiliation) for church use.",
+      summary: "Previously deployed web-based system for collecting and summarizing local demographic information for church use.",
       image: "/household.png",
     },
   ],
