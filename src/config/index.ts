@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Kristine Venesse Anunsawon — Portfolio",
   author: "Kristine Venesse Anunsawon",
   description:
-    "",
+    "Personal Portfolio",
   lang: "en",
   siteLogo: "/krissszz.png",
   navLinks: [
@@ -25,7 +25,7 @@ export const SITE_CONTENT: SiteContent = {
     name: "Kristine Venesse Anunsawon",
     specialty: "Analyst / Programmer",
     summary:
-      "Backend-focused Analyst/Programmer specializing in Python, Django, and MySQL. I build internal systems, automate workflows, and create reliable, data-driven solutions.",
+      "Backend-focused Analyst/Programmer based in Philippines, specializing in Python, Django, and MySQL. Experienced in building scalable internal systems and data-driven solutions.",
     email: "anunsawonv@gmail.com",
   },
   experience: [
