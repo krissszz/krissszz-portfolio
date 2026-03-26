@@ -64,22 +64,16 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Scale House System",
       summary: "A system to record and manage truck weighing data for sugarcane deliveries, integrating with industrial scales to capture and store real-time weight measurements.",
-      linkPreview: "/",
-      linkSource: "",
       image: "/scalehouse.png",
     },
     {
       name: "EMR System",
       summary: "An internal web application that manages employee medical records to improve accessibility and organization of health data.",
-      linkPreview: "/",
-      linkSource: "",
       image: "/emr.png",
     },
     {
       name: "Payroll System",
       summary: "A system for a company and a school, handling employee records, salary computation, and basic reports.",
-      linkPreview: "/",
-      linkSource: "",
       image: "/payroll.png",
     },
   ],
