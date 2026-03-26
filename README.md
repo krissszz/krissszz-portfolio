@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site showcases my projects, skills, and experience as an Analyst / Programmer.
 
-![zen-og](https://github.com/user-attachments/assets/7a72aaae-6652-4cd0-becc-8e6a3c224993)
+![Preview](./public/krissszz-page.png)
 
 ## 🚀 About the Project
 
