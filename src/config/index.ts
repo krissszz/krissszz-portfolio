@@ -82,7 +82,7 @@ export const SITE_CONTENT: SiteContent = {
       image: "/payroll.png",
     },
     {
-      name: "Household / Cencus Wep App",
+      name: "Household / Cencus Web App",
       summary: "Previously deployed web-based system for collecting and summarizing local demographic information for church use.",
       image: "/household.png",
     },
