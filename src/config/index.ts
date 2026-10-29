@@ -67,6 +67,11 @@ export const SITE_CONTENT: SiteContent = {
       image: "/scalehouse.png",
     },
     {
+      name: "TickIT",
+      summary: "An internal IT support ticketing system for submitting and tracking service requests.",
+      image: "/tickit.png",
+    },
+    {
       name: "EMR System",
       summary: "An internal web application that manages employee medical records to improve accessibility and organization of health data.",
       image: "/emr.png",
